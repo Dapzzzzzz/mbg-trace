@@ -1,10 +1,10 @@
-# 📋 TODO List & Panduan untuk Tim (Izzar, Dapa, Nasar)
+# TODO List & Panduan untuk Tim
 
 Proyek Laravel, koneksi MySQL, koneksi MongoDB, dan database migrations sudah disiapkan. Berikut adalah rincian tugas untuk masing-masing anggota dan panduan cara mengerjakannya.
 
 ---
 
-## 👨‍💻 Izzar (MySQL Models - Part 1)
+## Izzar (MySQL Models - Part 1)
 
 **Tugas:** Membuat model Eloquent untuk tabel `supplier`, `bahan_makanan`, dan `menu`.
 
@@ -34,7 +34,7 @@ Semua model MySQL harus `extend Illuminate\Database\Eloquent\Model`.
 
 ---
 
-## 👨‍💻 Dapa (MySQL Models Part 2 & MongoDB Model)
+## Dapa (MySQL Models Part 2 & MongoDB Model)
 
 **Tugas:** Membuat model Eloquent untuk tabel `detail_menu`, `sekolah`, `sppg`, dan `laporan_keracunan` (MongoDB).
 
@@ -70,7 +70,7 @@ Semua model MySQL harus `extend Illuminate\Database\Eloquent\Model`.
 
 ---
 
-## 👨‍💻 Nasar (Controllers, Services & API Endpoints)
+## Nasar (Controllers, Services & API Endpoints)
 
 **Tugas:** Membuat semua API Endpoint CRUD dan logika Traceability (Cross-DB).
 
